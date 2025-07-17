@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CMapTypes>
+  <Item>
+    <name>prop_dice_01</name>
+    <archetypeName>prop_dice_01</archetypeName>
+    <assetType>0</assetType>
+    <flags value="0" />
+    <hdTextureDist value="200" />
+    <lodDist value="300" />
+    <bbMin x="-0.1" y="-0.1" z="-0.1" />
+    <bbMax x="0.1" y="0.1" z="0.1" />
+    <bsCentre x="0.0" y="0.0" z="0.0" />
+    <bsRadius value="0.2" />
+    <drawableDictionary>prop_dice_01</drawableDictionary>
+    <physicsDictionary />
+    <assetName>prop_dice_01</assetName>
+    <extensions />
+  </Item>
+</CMapTypes>
